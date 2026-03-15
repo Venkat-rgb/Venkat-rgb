@@ -1,4 +1,4 @@
-# Hi 👋, I'm Venkat Reddy
+# Hi 👋, I'm Mandadi Venkat Sai Kumar Reddy
 
 ### Passionate Full-Stack Developer skilled in building robust frontend and backend scalable systems.
 
