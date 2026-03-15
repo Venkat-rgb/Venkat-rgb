@@ -2,8 +2,6 @@
 
 ### Passionate Full-Stack Developer skilled in building robust frontend and backend scalable systems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Venkat-rgb&label=Profile views&color=0e75b6&style=flat" alt="Venkat-rgb" /> </p>
-
 - 🔭 I'm currently working on **Globemart, an AI-Powered Global Ecommerce Platform**
 
 - 🌱 I'm currently learning **about building AI agents using Langchain and LangGraph using LLMs**
@@ -13,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Venkat-rgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Venkat-rgb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Venkat Reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Venkat Reddy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/venkatreddy62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkatreddy62" height="30" width="40" /></a>
 <a href="https://twitter.com/VenkyRe81041887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VenkyRe81041887" height="30" width="40" /></a>
 </p>
 
