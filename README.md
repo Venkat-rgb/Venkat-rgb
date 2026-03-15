@@ -2,9 +2,9 @@
 
 I am Venkat, a passionate full-stack developer skilled in building robust frontend and backend scalable systems. I focus on creating innovative software products that solve real-world problems
 
-- 🔭 I'm currently working on **Globemart, an AI-Powered Global Ecommerce Platform**
+- 🔭 I'm currently working on **Globemart, an AI-powered global e-commerce platform**
 
-- 🌱 I'm currently learning **about building AI agents using Langchain and LangGraph using LLMs**
+- 🌱 I'm currently learning **about building AI agents using LangChain and LangGraph using LLMs**
 
 - 📫 How to reach me **venkymandadi62@gmail.com**
 
