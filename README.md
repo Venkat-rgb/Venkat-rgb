@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Venkat, a passionate full-stack developer skilled in building robust frontend and backend scalable systems. I focus on creating innovative software products that solve real-world problems
+I am Venkat, a passionate full-stack developer from India, skilled in building robust, scalable frontend and backend systems. I focus on creating innovative software products that solve real-world problems
 
 - 🔭 I'm currently working on **Globemart, an AI-powered global e-commerce platform**
 
